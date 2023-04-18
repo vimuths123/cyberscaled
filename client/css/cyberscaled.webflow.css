@@ -654,6 +654,31 @@
   background-repeat: no-repeat;
 }
 
+.input-filed-mail {
+  height: 45px;
+  margin-bottom: 0px;
+  padding-left: 40px;
+  border-radius: 8.01px;
+  background-image: url('../images/email.svg');
+  
+  background-position: 2% 50%;
+  background-size:22px;
+  background-repeat: no-repeat;
+}
+
+.input-filed-cname {
+  height: 45px;
+  margin-bottom: 0px;
+  padding-left: 40px;
+  border-radius: 8.01px;
+  background-image: url('../images/company-name1.svg');
+  
+  background-position: 2% 50%;
+  background-size:22px;
+  background-repeat: no-repeat;
+}
+
+
 .input-filed::-moz-placeholder {
   color: #e0e0e0;
 }
